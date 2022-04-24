@@ -31,3 +31,4 @@
 - **Eric Belardo - Cyber Security / Raices Cyber**: [link](https://www.youtube.com/EricBelardoCyber) Cyber Security and Online Safety Expert, Security Professional of 30+ years,  USArmy Vet, Recovering CISO
 - **INEtraining**: [link](https://www.youtube.com/channel/UCyOA7k7lQz2urA8kfKoMkHg) From expert level CCIE training, to the many other Cisco certification courses being offered, INE can help you learn at any pace you desire.
 - **David Bombal**: [link](https://www.youtube.com/davidbombal) On this channel, I discuss Python, Ethical Hacking, Networking, Network Automation, CCNA, Virtualization and other IT related topics.
+- **Tech69**: [link](https://www.youtube.com/c/tech69yt) I post on Web, Red team, CSharp, Python and other general security related videos
