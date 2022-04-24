@@ -18,14 +18,23 @@ finalMD = ""
 finalMD += comment
 finalMD += "# InfoSec Resources\n\n"
 
-# parts
+# YOUTUBE CHANNELS
 ytChannelsMD = "## Youtube Channels\n\n"
-
 with open("data/ytChannels.yml") as ytChans:
     ytChannels = load(ytChans.read(), Loader=Loader)
     for channel in ytChannels["ytChannels"]:
         ytChannelsMD += "- **{name}**: [link]({link}) {description}\n".format(name=channel["name"],link=channel["link"],description=channel["description"])
 
+# CTFs
+ctfsMD = "## CTFs\n\n"
+with open("data/ctfs.yml") as ctfs:
+    CTFs = load(ctfs.read(), Loader=Loader)
+    for ctf in CTFs["ctfs"]:
+        ctfsMD += "- **{name}**: [link]({link}) {description}\n".format(name=ctf["name"],link=ctf["link"],description=ctf["description"])
+
+
+finalMD += ctfsMD 
+finalMD =+ "\n\n"
 finalMD += ytChannelsMD
 
 fName = "dev/readme.md"
