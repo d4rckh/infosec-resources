@@ -7,7 +7,7 @@
 
 ## CTFs
 
-- **PicoCTF**: [link](https://picoctf.org/) A very great start for anyone looking to get into CTFs
+- **PicoCTF**: [link](https://picoctf.org/) A very great start for anyone looking to get into CTFs.
 - **HackTheBox**: [link](https://www.hackthebox.com/) Another great website if you are starting out, a bit more competitive.
 - **TryHackMe**: [link](https://tryhackme.com/) Community-made rooms for learning different topics.
 
@@ -18,6 +18,7 @@
 - **IppSec**: [link](https://www.youtube.com/c/ippsec) weekly hackthebox writeups
 - **Conda**: [link](https://www.youtube.com/c0nd4) I post videos on how to build and break things in the cybersecurity world. Currently I'm a penetration tester and am passionate about helping others learn about and break in to this industry.
 - **The Cyber Mentor**: [link](https://www.youtube.com/c/thecybermentor) I'm a hacker by trade, but this channel will contain various lessons and even off-topic stuff from time to time.
+- **PwnFunction**: [link](https://www.youtube.com/PwnFunction) I make Animated Computer Science Videos.
 - **InsiderPhD**: [link](https://www.youtube.com/c/InsiderPhD) PhD (Def&Sec) Student investigating Insider Threats using Natural Language Processing at Cranfield University. BSc in Computer Science.
 - **Alh4zr3d**: [link](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA) Practitioner, scholar, and teacher of the eldritch knowledge of hacking. Cthulhu fhtagn.
 - **Farah Hawa**: [link](https://www.youtube.com/c/farahhawa) Hi! Welcome to my channel. Join me as I learn new things everyday and share useful resources as I move along in my journey as a hacker.
