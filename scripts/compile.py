@@ -32,7 +32,6 @@ with open("data/ctfs.yml") as ctfs:
     for ctf in CTFs["ctfs"]:
         ctfsMD += "- **{name}**: [link]({link}) {description}\n".format(name=ctf["name"],link=ctf["link"],description=ctf["description"])
 
-
 finalMD += ctfsMD 
 finalMD += "\n\n"
 finalMD += ytChannelsMD
