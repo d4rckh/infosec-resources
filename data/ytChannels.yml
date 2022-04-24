@@ -1,0 +1,34 @@
+ytChannels:
+  - name: John Hammond
+    link: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
+    description: amazing youtube content
+  - name: IppSec
+    link: https://www.youtube.com/c/ippsec
+    description: weekly hackthebox writeups
+  - name: Conda
+    description: I post videos on how to build and break things in the cybersecurity world. Currently I'm a penetration tester and am passionate about helping others learn about and break in to this industry. 
+    link: https://www.youtube.com/c0nd4
+  - name: The Cyber Mentor
+    link: https://www.youtube.com/c/thecybermentor
+    description: I'm a hacker by trade, but this channel will contain various lessons and even off-topic stuff from time to time.
+  - name: InsiderPhD
+    description: PhD (Def&Sec) Student investigating Insider Threats using Natural Language Processing at Cranfield University. BSc in Computer Science.
+    link: https://www.youtube.com/c/InsiderPhD
+  - name: HackerSploit
+    description: HackerSploit is the leading provider of free Infosec and cybersecurity training. Our goal is to make cybersecurity training more effective and accessible to students and professionals. We achieve this by providing essential training on how to attack and defend systems with virtual labs and real-world scenarios. We offer individual and corporate training packages in Penetration Testing & Red Team Operations, Web application penetration testing, and cybersecurity awareness training.
+    link: https://www.youtube.com/HackerSploit
+  - name: DC CyberSec
+    link: https://www.youtube.com/dccybersec
+    description: I'm a CyberSec professional who has worked in multiple countries around the world primarily in defensive security and social engineering field operations.
+  - name: The XSS Rat
+    link: https://www.youtube.com/c/TheXSSrat
+    description: Hello everyone! I'm a full time dad and part time bug bounty hunter. My day job is mostly QA/QC but my heart is at NetSec. Currently a top 50 intigriti all time leaderboard hacker, i want invest my time into helping the community. We need ethical hackers like you in the future. My opinions are mine and mine alone and if you want a pentest from me, so is the content of your hard drive.
+  - name: SecAura
+    description: SecAura was created for the distribution of Educational (Ethical) Hacking content, like and subscribe to inspire more content!
+    link: https://www.youtube.com/channel/UCx89Lz24SEPZpExl6OfQ0Gg
+  - name: STÖK 
+    link: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+    description: HACKERS GONNA HACK // CREATORS GONNA CREATE
+  - name: David Bombal
+    link: https://www.youtube.com/davidbombal
+    description: On this channel, I discuss Python, Ethical Hacking, Networking, Network Automation, CCNA, Virtualization and other IT related topics.
