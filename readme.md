@@ -5,6 +5,13 @@
 -->
 # InfoSec Resources
 
+## CTFs
+
+- **PicoCTF**: [link](https://picoctf.org/) A very great start for anyone looking to get into CTFs
+- **HackTheBox**: [link](https://www.hackthebox.com/) Another great website if you are starting out, a bit more competitive.
+- **TryHackMe**: [link](https://tryhackme.com/) Community-made rooms for learning different topics.
+
+
 ## Youtube Channels
 
 - **John Hammond**: [link](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) amazing youtube content
