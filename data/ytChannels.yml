@@ -11,6 +11,9 @@ ytChannels:
   - name: The Cyber Mentor
     link: https://www.youtube.com/c/thecybermentor
     description: I'm a hacker by trade, but this channel will contain various lessons and even off-topic stuff from time to time.
+  - name: PwnFunction
+    link: https://www.youtube.com/PwnFunction
+    description: I make Animated Computer Science Videos.
   - name: InsiderPhD
     description: PhD (Def&Sec) Student investigating Insider Threats using Natural Language Processing at Cranfield University. BSc in Computer Science.
     link: https://www.youtube.com/c/InsiderPhD
