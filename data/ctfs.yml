@@ -1,7 +1,7 @@
 ctfs:
   - name: PicoCTF
     link: https://picoctf.org/
-    description: A very great start for anyone looking to get into CTFs
+    description: A very great start for anyone looking to get into CTFs.
   - name: HackTheBox
     link: https://www.hackthebox.com/
     description: Another great website if you are starting out, a bit more competitive.
