@@ -1,4 +1,5 @@
 # this runs on every commit ig, is cool
+import os
 
 # we need yaml, cuz json is not very cool
 from yaml import load, dump
@@ -27,5 +28,10 @@ with open("data/ytChannels.yml") as ytChans:
 
 finalMD += ytChannelsMD
 
-with open('readme.md', "w") as myfile:
+fName = "dev/readme.md"
+
+if os.getenv("githubAction") == "yes":
+    fName = "readme.md"
+
+with open(fName, "w") as myfile:
     myfile.write(finalMD)
