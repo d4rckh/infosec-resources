@@ -34,7 +34,7 @@ with open("data/ctfs.yml") as ctfs:
 
 
 finalMD += ctfsMD 
-finalMD =+ "\n\n"
+finalMD += "\n\n"
 finalMD += ytChannelsMD
 
 fName = "dev/readme.md"
