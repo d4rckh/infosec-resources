@@ -14,12 +14,21 @@ ytChannels:
   - name: InsiderPhD
     description: PhD (Def&Sec) Student investigating Insider Threats using Natural Language Processing at Cranfield University. BSc in Computer Science.
     link: https://www.youtube.com/c/InsiderPhD
+  - name: Alh4zr3d
+    link: https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA
+    description: Practitioner, scholar, and teacher of the eldritch knowledge of hacking. Cthulhu fhtagn.
+  - name: Farah Hawa
+    link: https://www.youtube.com/c/farahhawa
+    description: Hi! Welcome to my channel. Join me as I learn new things everyday and share useful resources as I move along in my journey as a hacker.
   - name: HackerSploit
     description: HackerSploit is the leading provider of free Infosec and cybersecurity training. Our goal is to make cybersecurity training more effective and accessible to students and professionals. We achieve this by providing essential training on how to attack and defend systems with virtual labs and real-world scenarios. We offer individual and corporate training packages in Penetration Testing & Red Team Operations, Web application penetration testing, and cybersecurity awareness training.
     link: https://www.youtube.com/HackerSploit
   - name: DC CyberSec
     link: https://www.youtube.com/dccybersec
     description: I'm a CyberSec professional who has worked in multiple countries around the world primarily in defensive security and social engineering field operations.
+  - name: Cyber Warrior Studios
+    link: https://www.youtube.com/c/CyberWarriorStudios/videos
+    description: I will be using this channel to provide tutorials to fellow security professionals, share my opinion on how companies can improve their network security, and otherwise provide other security information.
   - name: The XSS Rat
     link: https://www.youtube.com/c/TheXSSrat
     description: Hello everyone! I'm a full time dad and part time bug bounty hunter. My day job is mostly QA/QC but my heart is at NetSec. Currently a top 50 intigriti all time leaderboard hacker, i want invest my time into helping the community. We need ethical hackers like you in the future. My opinions are mine and mine alone and if you want a pentest from me, so is the content of your hard drive.
@@ -29,6 +38,12 @@ ytChannels:
   - name: STÖK 
     link: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
     description: HACKERS GONNA HACK // CREATORS GONNA CREATE
+  - name: Eric Belardo - Cyber Security / Raices Cyber
+    link: https://www.youtube.com/EricBelardoCyber
+    description: Cyber Security and Online Safety Expert, Security Professional of 30+ years,  USArmy Vet, Recovering CISO
+  - name: INEtraining
+    description: From expert level CCIE training, to the many other Cisco certification courses being offered, INE can help you learn at any pace you desire. 
+    link: https://www.youtube.com/channel/UCyOA7k7lQz2urA8kfKoMkHg
   - name: David Bombal
     link: https://www.youtube.com/davidbombal
     description: On this channel, I discuss Python, Ethical Hacking, Networking, Network Automation, CCNA, Virtualization and other IT related topics.
